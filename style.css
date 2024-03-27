@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.button {
+    margin: 30px;
+    padding: 30px;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.heading {
+    font-size: 40px;
+    font-weight: 600;
+    color: gray;
+    text-align: center;
+}
+
+.heading-2 {
+    font-size: 20px;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+}
+#black {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#gray {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+#yellow {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+#white {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
